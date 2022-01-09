@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-weight: bold;">Yo, name's Mozzart. Im a developer</h1>
+  <h1 style="font-weight: bold;">Yo, name's Mozart. Im a developer</h1>
   <h2>My knowledge is primarily in minecraft addons and servers.</h2>
   <br/>
   <h3>Languages</h3>
