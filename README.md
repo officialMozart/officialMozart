@@ -14,9 +14,7 @@
     <img alt="Lua" src="https://img.shields.io/badge/-lua-040a16?style=for-the-badge&logo=lua">
   </div>
   <h3>Stats</h3>
-  <div>
     ![](https://raw.githubusercontent.com/Kubajsa/github-stats/master/generated/languages.svg)
 
     ![](https://raw.githubusercontent.com/Kubajsa/github-stats/master/generated/overview.svg)
-  </div>
  
