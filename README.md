@@ -16,6 +16,6 @@
   <h3>Stats</h3>
 </div>
 
-    ![](https://raw.githubusercontent.com/Kubajsa/github-stats/master/generated/languages.svg)
-    ![](https://raw.githubusercontent.com/Kubajsa/github-stats/master/generated/overview.svg)
+    ![](https://raw.githubusercontent.com/officialMozart/github-stats/master/generated/languages.svg)
+    ![](https://raw.githubusercontent.com/officialMozart/github-stats/master/generated/overview.svg)
  
